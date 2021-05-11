@@ -1,5 +1,13 @@
 # Baskent Connect
 
+## Project Team :computer:
+<a href="https://github.com/atillakaantanyeri">https://github.com/atillakaantanyeri</a>
+<a href="https://github.com/mert-uysal">https://github.com/mert-uysal</a>
+<a href="https://github.com/armagandalkiran">https://github.com/atillakaantanyeri</a>
+<a href="https://github.com/gurdalegemen">https://github.com/gurdalegemen</a>
+<a href="https://github.com/Serene-Sea">https://github.com/atillakaantanyeri</a>
+<a href="https://github.com/BerkeOzelgen">https://github.com/BerkeOzelgen</a>
+
 ## Product Scope
 
 * Baskent Connect is a chat application where group conversations and announcements can be made for lecturers and students to communicate more easily and it is all-in-one application which students can achieve any information they need about they need about their lectures. This application also cares about privacy so there is no need to share personal information.
@@ -35,4 +43,6 @@
 
 ### Group Info
 ![Group Info Screen](/images/group_info.jpg)
+
+
 
