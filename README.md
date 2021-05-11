@@ -1,4 +1,4 @@
-#<img width=50 src="https://upload.wikimedia.org/wikipedia/tr/4/41/Ba%C5%9Fkent_%C3%9Cniversitesi_amblemi.gif">  Baskent Connect
+# Baskent Connect
 
 ## Product Scope
 
