@@ -1,12 +1,12 @@
 # Baskent Connect
 
 ## Project Team :computer:
-- <a href="https://github.com/atillakaantanyeri">https://github.com/atillakaantanyeri</a>
-- <a href="https://github.com/mert-uysal">https://github.com/mert-uysal</a>
-- <a href="https://github.com/armagandalkiran">https://github.com/atillakaantanyeri</a>
-- <a href="https://github.com/gurdalegemen">https://github.com/gurdalegemen</a>
-- <a href="https://github.com/Serene-Sea">https://github.com/atillakaantanyeri</a>
-- <a href="https://github.com/BerkeOzelgen">https://github.com/BerkeOzelgen</a>
+- <a href="https://github.com/atillakaantanyeri">Atilla Kaan Tanyeri</a>
+- <a href="https://github.com/mert-uysal">Necmettin Mert Uysal</a>
+- <a href="https://github.com/armagandalkiran">Görkem Armağan Dalkıran</a>
+- <a href="https://github.com/gurdalegemen">Egemen Gürdal Uyan</a>
+- <a href="https://github.com/Serene-Sea">Deniz Yüce</a>
+- <a href="https://github.com/BerkeOzelgen">Berke Özelgen</a>
 
 ## Product Scope
 
