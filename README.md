@@ -1,6 +1,7 @@
 # Baskent Connect
 
 ## Project Team :computer:
+- <a href="https://github.com/canpolatt">Can Polat</a>
 - <a href="https://github.com/atillakaantanyeri">Atilla Kaan Tanyeri</a>
 - <a href="https://github.com/mert-uysal">Necmettin Mert Uysal</a>
 - <a href="https://github.com/armagandalkiran">Görkem Armağan Dalkıran</a>
